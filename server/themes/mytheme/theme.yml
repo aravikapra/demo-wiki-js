@@ -1,0 +1,9 @@
+name: mytheme
+label: My Custom Theme
+description: A custom theme for Wiki.js using Bootstrap
+author: Your Name
+repository: https://your-repo-url
+version: 1.0.0
+entry: ./app.js
+styles:
+  - ./app.scss
