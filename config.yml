@@ -24,11 +24,11 @@ db:
   type: postgres
 
   # PostgreSQL / MySQL / MariaDB / MS SQL Server only:
-  host: localhost
-  port: 5432
-  user: postgres
-  pass: password
-  db: db_wiki2
+  host: aws-0-ap-southeast-1.pooler.supabase.com
+  port: 6543
+  user: postgres.mvavjhseapuhtgzmjhsj
+  pass: Aravika007-=
+  db: postgres
   ssl: false
 
   # Optional - PostgreSQL / MySQL / MariaDB only:
